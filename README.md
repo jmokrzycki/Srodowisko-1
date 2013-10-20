@@ -21,6 +21,23 @@ main()
 }
 ```
 
+Zad 2
+```c
+/*Napisać program obliczający wartość każdego z poniższych wyrażen: 
+n1=5+3*8/2-3
+n2=2%2+2*2-2/2
+n3=2*4*(5+9/2)*/
+
+main(){
+  int n1,n2,n3;
+
+  n1=5+3*8/2-3;
+  n2=2%2+2*2-2/2;
+  n3=2*4*(5+9/2);
+
+  printf("Wynik działania to %i\n %i\n %i\n", n1, n2, n3);
+    }
+```
 
 Zad 3
 

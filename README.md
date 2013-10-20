@@ -3,7 +3,7 @@
 Zad 1
 
 ```c
-\*Napisać i uruchomić program w C, który wczytuje liczbę naturalną n i drukuje
+/*Napisać i uruchomić program w C, który wczytuje liczbę naturalną n i drukuje
 wartość sumy kwadratów 1^2+2^2+....+n^2. */
 main()
 {

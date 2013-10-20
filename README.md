@@ -3,7 +3,8 @@
 Zad 1
 
 ```c
-/*W miejsce kropek "...." wpisz kod tak, aby powstał działający program. Program wypisuje liczby z tablicy tabela [] w odwrotnej kolejności, tj. 12,6,4,2,1.*/
+/*W miejsce kropek "...." wpisz kod tak, aby powstał działający program. 
+Program wypisuje liczby z tablicy tabela [] w odwrotnej kolejności, tj. 12,6,4,2,1.*/
 
 int main() {
 int i;

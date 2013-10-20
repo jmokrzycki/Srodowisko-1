@@ -1,4 +1,4 @@
-# Rozwiązania zadania
+# Rozwiązania zadania LAB 2
 
 Zad 1
 

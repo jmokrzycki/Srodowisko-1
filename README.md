@@ -53,3 +53,26 @@ printf("%i",tabela[i]);
 return 0;
 }
 ```
+
+Zad 4
+
+```c
+/*Napisać i uruchomić program w C, który wypisuje kolejne potęgi 2 nie 
+przekraczając 2012
+a) używając pętli for
+b) używając pętli while*/
+
+
+int main (){
+  int i;
+  for(i=1;i<=2010;i=i*2)
+    {
+      printf("%i",i);
+    }i=1;
+  while (i<=2010){
+    printf("%i",i);
+    i=i*2;
+  }
+}
+```
+

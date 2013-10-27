@@ -114,7 +114,10 @@ poda 7 0.12 -31.5 2.5 -59.01 26.4 -12.0 8.3 */
   if(i%3==2)
     printf("\n");
   }
-  //Mozna zakladac. ze liczby naleza do przedzialu (-100,100), zeby wydrukowal l.rzeczywista na polu o dl. 6 znakow z 2 cyframi po kropce nalezy w komendzie printf uzyc formatu "%6.2lf".
+  //Mozna zakladac. ze liczby naleza do przedzialu (-100,100), zeby wydrukowal l.rzeczywista na 
+  polu o dl. 6 znakow z 2 cyframi po kropce nalezy w komendzie printf uzyc formatu "%6.2lf". 
+  komenda ./zad6 > plik_z_danymi wpiszemy wartosci w pliku, a 
+  komenda ./zad6 <plik_z_danymi otwieramy program przy wykorzystaniu danych z pliku
 ```
 
 

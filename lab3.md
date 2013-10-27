@@ -13,7 +13,7 @@ Zad 1
   else 
     printf("Liczba %d jest mniejsza lub rowna 5 \n",liczba);
   return 0;
-  }
+  
   ```
   
   
@@ -33,5 +33,4 @@ Zad 1
   else 
     printf("Liczba %d jest rowna 0 \n", liczba);
   return 0;
-  }
   ```

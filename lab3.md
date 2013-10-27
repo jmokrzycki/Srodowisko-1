@@ -34,3 +34,20 @@ Zad 1
     printf("Liczba %d jest rowna 0 \n", liczba);
   return 0;
   ```
+  
+  Zad 3
+  
+```c
+/*Wczyta liczbe calkowita i wypisze czy jest parzysta czy nieparzysta.*/
+int n;
+  printf("Wprowadz liczbe\n");
+  scanf("%d", &n);
+  printf ("%d\n",n);
+
+  if(n%2==0)
+  printf("Liczba %d jest parzysta\n",n);
+  else
+    printf("Liczba %d jest nieparzysta \n",n);
+  return 0;
+ ```
+

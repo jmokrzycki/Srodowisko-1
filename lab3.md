@@ -91,7 +91,7 @@ Zad 4
     printf("Liczba %d jest mniejsza od liczby %d\n", liczba,liczba2);
   }
   return 0;
-    ```
+  ```
 Zad 6
   ```c
 /*Napisac program, ktory wczytuje liczbe calkowita n wieksze rowne 0, a nastepnie n liczb rzeczywistych 

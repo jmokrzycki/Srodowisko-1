@@ -30,3 +30,9 @@ Zad 7
 
 $7=="Satellite-Saturn"  {if (i<$3){i=$3}} 
 END {print i}
+
+Zad 9
+/*Wypisz wszystkie księżyce wraz z informacją o tym jakiej są planety, w następującej formie:
+Mimas krąży wokół planety Saturn. */
+
+/Satellite/ {planeta=substr ($7, 11); print $1" krązy wokół planety "planeta"."}

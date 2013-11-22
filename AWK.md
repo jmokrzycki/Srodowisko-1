@@ -2,8 +2,8 @@
 
 Zad 3
 /*Ile jest planet w układzie słonecznym?*/
-$7=="Planet" {i++}
-END {print "Planet w ukladzie slonecznym jest:",i}
+$7=="Planet" {p++}
+END {print "Planet w ukladzie slonecznym jest:",p}
 
 
 Zad 4

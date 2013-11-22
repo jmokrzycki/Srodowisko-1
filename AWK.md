@@ -1,4 +1,4 @@
-```awk
+```c
 
 /*5. Wypisz planety z układu słonecznego w następujący sposób: np. NAZWA_PLANETY jest planeta o
 masie MASA*10^21kg oraz objętości OBJETOSC*10^9km^3. */

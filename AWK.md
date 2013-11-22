@@ -1,10 +1,12 @@
 ```c
+Zad 2
+/* Wypisz wszystkie informacje o planetach układu słonecznego */
+$7 == "Planet" {print $0}
 
 Zad 3
 /*Ile jest planet w układzie słonecznym?*/
 $7=="Planet" {p++}
 END {print "Planet w ukladzie slonecznym jest:",p}
-
 
 Zad 4
 /*Jaka jest suma objetosci cial o regularnym ksztalcie? */ 
